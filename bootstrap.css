@@ -1,0 +1,288 @@
+*{
+
+margin: 0px;
+padding: 0px;	
+
+}
+.main{
+height: auto;
+width: 100%;
+float: left;
+ }  
+.menu{
+height: auto;
+width: 100%;
+float: left;
+position: sticky;
+top:0px;
+
+
+}
+
+
+ .img-size{
+height: 50px;
+width: 50px;
+margin-left: 20px;
+margin-bottom: 2px;
+ } 
+@media(max-width:667px){
+
+.navoverlap{
+
+	position: absolute;
+	top:80px;
+	right: 45px;
+}
+
+
+} 
+.slider_contain h4{
+   width: 200px;
+color: gray;
+} 
+.slider_contain h1{
+	color: #003366;
+} 
+
+@media(max-width:667px){
+
+.slider_contain p{
+height: auto;
+margin: 30px;
+text-align: justify-all;
+}
+ .img_container img{
+margin-right: 10px;
+
+ }
+
+
+
+
+
+ }
+
+
+ 
+ .img_size1 img{
+height: 50px;
+width: 50px;
+border-radius: 25px;
+position: relative;
+ } 
+
+
+
+
+
+@media(max-width:667px)
+.img_container span{
+position: relative;
+ 	top:0px;
+ 	right: 0px;
+
+}
+
+
+.rounded_contain h1{
+height: 60px;
+width: 60px;
+border-radius: 30px;
+background-color: grey;
+} 
+
+.rounded_contain h1:hover{
+background-color: #003333;
+color: white;
+
+ }
+
+
+ .rounded_contain h6{
+color: #003333;
+
+
+ } 
+.about_contain h5{
+
+color:#003333;
+font-family:Arial;
+}
+
+.ceo_img h4{
+float: left;
+text-align: center;
+
+
+
+} 
+
+.area1 img{
+border-radius: 10px;
+ 
+margin-left: 100px;
+
+
+}
+
+.img_area img{
+height: 170px;
+width: 20%;
+position: absolute;
+top:1050px;
+left: 52%;
+ border: solid 10px white;
+ border-radius: 10px;
+
+}
+@media(max-width:667px){
+
+.img_area img{
+height: 170px;
+width: 77%;
+position: relative;
+top:0px;
+left: 0px;
+border: none;
+}
+.area1 img{
+border-radius: 10px;
+ 
+margin-left: 0px;
+
+
+}
+   }
+
+
+.text_shape h4{
+float: left;
+margin-left: 30%;
+color: #003333;
+}
+ .text_shape1 h4{
+float: left;
+margin-left: 20%;
+color: #003333;
+}
+
+.text_shape2 h4{
+float: left;
+margin-left: 23%;
+color: #003333;
+} 
+.img4_area img{
+
+	margin-top: 40%;
+	margin-left: 5%;
+}
+
+
+
+
+
+
+
+
+.span_contain h1{
+height: 60px;
+width: 60px;
+border-radius: 30px;
+background-color: grey;
+margin-top: 80%;
+margin-left: 5%;
+text-align: center;
+
+color: #003333;
+ }     
+
+.span_contain1 h1{
+height: 60px;
+width: 60px;
+border-radius: 30px;
+background-color: grey;
+margin-top: 80%;
+margin-left: 30%;
+text-align: center;
+
+color: #003333;
+ }      
+
+ .bagroundimg{
+
+ 	
+background-image: url(https://cdn.svgator.com/images/2022/06/use-svg-as-background-image-particle-strokes.svg);
+ } 
+
+
+.user_area img{
+height: 120px;
+width: 120px;
+border-radius: 60px;
+border: solid 5px lightgray;
+margin-left: 15%;
+} 
+
+.user_area i{
+
+color: gold;
+margin-top: 0px;
+
+} 
+
+.user_area p i{
+font-size: 25px;
+color: lightpink;
+margin-top: 0px;
+margin-left: 10px;
+margin-right: 10px;
+}     
+
+
+.rounded_hover h1{
+height: 60px;
+width: 60px;
+border-radius: 30px;
+background-color: grey;
+text-align: center;
+} 
+
+.rounded_hover h1:hover{ 
+background-color: green;
+
+
+
+} 
+.Contact1{
+background-color:#003333;
+} 
+
+.icon_cover h1{
+height: 60px;
+width: 60px;
+border-radius: 30px;
+background-color: grey;
+text-align: center;
+margin-left: 10%;	
+} 
+.Touch1{
+height: 900px;
+
+}
+
+
+.button_class button{
+background-color: #003333;
+height: 60px;
+width: 30%;
+margin-left: 35%;
+color: white;
+} 
+
+.button_class button:hover{
+
+background-color:violet;
+
+
+}
